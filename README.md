@@ -13,4 +13,4 @@ creating a classification model to predict customer buying behaviour
 preparing a powerpoint representation to highlight our insights and analysis
 
 
-Completion Certificate:
+Completion Certificate link:https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_KdazaTaksA4kSt9LQ_1692292587188_completion_certificate.pdf
